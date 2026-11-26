@@ -1,4 +1,4 @@
-Hi there 👋
+# Hi there 👋
 
 We are [CGP](https://github.com/cgp-io) — we build a B2B platform for issuing, verifying and revoking digital certificates and professional credentials.
 
